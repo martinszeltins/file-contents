@@ -3,6 +3,8 @@ $ file-contents.sh <dir>
 ```
 
 ````
+$ file-contents.sh .
+
 .
 ├── app.vue
 ├── components
