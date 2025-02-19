@@ -2,6 +2,8 @@
 $ file-contents.sh <dir>
 ```
 
+A useful little script when you need to provide the context of your project to AI for example.
+
 ````
 $ file-contents.sh .
 
